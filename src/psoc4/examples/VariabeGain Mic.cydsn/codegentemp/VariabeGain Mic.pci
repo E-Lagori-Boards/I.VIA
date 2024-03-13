@@ -1,0 +1,19 @@
+# VariabeGain Mic
+# 2024-03-08 12:56:37Z
+
+# IO_2@[IOP=(3)][IoId=(2)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 2
+# IO_3@[IOP=(3)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 3
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_io "\I2CM:sda(0)\" iocell 7 1
+set_io "\I2CM:scl(0)\" iocell 7 0
+set_io "\UART:tx(0)\" iocell 5 1
+set_io "\UART:rx(0)\" iocell 5 0
+set_io "CTRL(0)" iocell 0 6
+set_io "ADC_PIN(0)" iocell 1 6
+set_io "S3(0)" iocell 3 0
+set_io "S2(0)" iocell 6 4
+set_io "S1(0)" iocell 3 1
+set_io "S0(0)" iocell 6 5
+set_location "\ADC:cy_psoc4_sar\" p4sarcell -1 -1 0
