@@ -1,0 +1,63 @@
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Blink.cydsn\Blink.cyprj|3c052270-1e99-4398-92dd-3e1b5e0cb7c3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|48ce175a-a638-4c28-9a2e-77c295af983e
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|d46fa909-99b1-406e-9799-5c7360cc896b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|5cb71ea7-6bf8-4aba-9803-3fa8b5325102
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e842b7a4-8434-4654-9dbc-c2a7ef244090
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d21a7ceb-1014-46be-b91b-281375f5d23e
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Peripheral Flash.cydsn\Peripheral Flash.cyprj|6f5fd103-1d83-4347-8583-9f1debf22c8a
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\setmux.cydsn\setmux.cyprj|58c35a95-d716-48f2-b729-f66fc896c428
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\UART_Testing.cydsn\UART_Testing.cyprj|6512327d-0e75-4e8a-8828-a21ac6283f9c
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\All included test 1.cydsn\All included test 1.cyprj|6ea2fa24-db50-4ba0-81d7-b725a986c999
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\analogRead.cydsn\analogRead.cyprj|eb17b365-6a55-4bd7-b3c7-3361bc3b4a63
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\muxseq.cydsn\muxseq.cyprj|52cff3f0-d5d9-4cee-a6b1-6d90aac4d291
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Timer Test.cydsn\Timer Test.cyprj|2fbdc6c8-317a-476f-858a-00962fbf6b16
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Flash Functions.cydsn\Flash Functions.cyprj|27930ee4-5518-412d-ae34-80f6ea235036
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\digitalWrite.cydsn\digitalWrite.cyprj|e2b6bf5c-6151-4976-a5ff-886ffd04b76d
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\pinModeCompare.cydsn\pinModeCompare.cyprj|b640564c-a4c0-4b8a-abfd-17ea27ed54d8
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\UART_Testing good one.cydsn\UART_Testing good one.cyprj|8a54bc62-622d-4ea8-b7e8-d32d1f235960
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|a22bcbe7-d417-4256-915a-c08ccc08b2ce
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\printf().cydsn\printf().cyprj|3b07c57b-24c2-4b5f-add5-02be8af92150
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\AD5142_New_Psoc.cydsn\AD5142_New_Psoc.cyprj|caf4bb65-94e7-4d25-a8e0-f64393ad9789
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\16MillionColors.cydsn\16MillionColors.cyprj|d8e65fb6-6d54-46de-af21-d105b9e2fa32
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\analogWrite().cydsn\analogWrite().cyprj|09e34a62-0583-43b9-ab06-27f6a3dce07b
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\VariabeGain Mic.cydsn\VariabeGain Mic.cyprj|79daa152-7d90-4b7a-bc3c-99e3afde447f
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\analogWrite() Ramp.cydsn\analogWrite() Ramp.cyprj|ddac799a-e27c-4434-a645-dff0383ee9d1
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\RS_CAN.cydsn\RS_CAN.cyprj|8436d098-72be-4d2b-aab1-3400c86ebfcb
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\All included test 2 AMISO AMOSI.cydsn\All included test 2 AMISO AMOSI.cyprj|c81b703c-a073-4266-9546-947c9662f09a
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Uart_UDB.cydsn\Uart_UDB.cyprj|94da9774-d9ab-486a-9709-f54760be980e
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Motor Driver.cydsn\Motor Driver.cyprj|e2d2c8fa-7668-4044-80cb-1b438c86d82a
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\IMU.cydsn\IMU.cyprj|1825a0b8-b355-4bc6-b779-b9355cc4ae0d
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\MotorDriverWithIMU.cydsn\MotorDriverWithIMU.cyprj|019bec23-dc0e-4e1c-8580-dd876831ccf4
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\BLDC Motor.cydsn\BLDC Motor.cyprj|1bb40796-5044-481e-ba5a-8aceb7afcdb7
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\24-Bit ADC.cydsn\24-Bit ADC.cyprj|75a101ae-bc71-4ff4-a81b-fe6932b312b6
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Timer_UDB.cydsn\Timer_UDB.cyprj|119c8e42-18ea-4f16-9bf1-1d485e040d2b
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Clock_P4_Example01.cydsn\Clock_P4_Example01.cyprj|e7511abc-b66c-46fd-9948-9da7a995a66e
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\PSoC Redesign.cydsn\PSoC Redesign.cyprj|0857ade4-d03d-4342-83c9-ef1f0dbf5f65
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\PSoC Redesign_CapSense.cydsn\PSoC Redesign_CapSense.cyprj|e65a9f1e-0c74-4ad3-b854-71f0a9b4b3cf
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\parseFloat().cydsn\parseFloat().cyprj|ab2a3787-b6bc-4e44-98c3-9828015f9559
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\UART_RX_Testing.cydsn\UART_RX_Testing.cyprj|0e124fe1-7961-4d6e-a8e8-d18568834dfc
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\SCB_UnconfiguredComm.cydsn\SCB_UnconfiguredComm.cyprj|26924858-6bb0-4cc7-b623-0781fc76b035
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\SCB_UnconfiguredComm_UART_SPI.cydsn\SCB_UnconfiguredComm_UART_SPI.cyprj|71ecaef7-5455-45f6-a0a2-7d8ff93dfa40
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\SPI_UART_Change.cydsn\SPI_UART_Change.cyprj|2e76f843-21cb-43ef-aa59-f547fc62a42f
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\IMU_I2C.cydsn\IMU_I2C.cyprj|2b8d8287-45e7-492e-a3d3-4bc098ac29f9
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\UART_COUNTER_UDB.cydsn\UART_COUNTER_UDB.cyprj|f22c24bb-7378-4d22-9a48-cd43ff730910
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\micros_overflow_65535.cydsn\micros_overflow_65535.cyprj|0cb17204-3bde-4d90-945e-e8b104cca127
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\CY8CKIT_044_Touch_Gestures_Example.cydsn\CY8CKIT_044_Touch_Gestures_Example.cyprj|28f2ff19-3724-4b9a-a0a4-3c61471422bd
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\CE210291_CapSense_P4_One_Button_Example.cydsn\CE210291_CapSense_P4_One_Button_Example.cyprj|52f6f5ba-774a-4399-9f7f-db0145e19513
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\CapSense_Tuner_UART_Example.cydsn\CapSense_Tuner_UART_Example.cyprj|4db4e575-37be-4250-b9b3-d3b679470424
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\CE210291_CapSense_P4_One_Button_ex2.cydsn\CE210291_CapSense_P4_One_Button_ex2.cyprj|0e8016fd-5b84-4b4a-98ed-7aad9be547d1
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\CY8C4247AZS-M485_PSoC4_CapSense_CSX_Tuning_Example.cydsn\CY8C4247AZS-M485_PSoC4_CapSense_CSX_Tuning_Example.cyprj|e7c3c99d-0153-44cd-8f6c-62326dd87999
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\CE214025 Trackpad With Color Gamut\CE214025 Trackpad With Color Gamut.cydsn\CE214025 Trackpad With Color Gamut.cyprj|fbe71e71-d648-4c5a-9c35-e12039febe02
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\CE210291_CapSense_P4_One_Button_ex2_BOTinterface.cydsn\CE210291_CapSense_P4_One_Button_ex2_BOTinterface.cyprj|a07a4381-fc80-4585-bc2c-90801a2e7b2f
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Gamepad_RXasCSD.cydsn\Gamepad_RXasCSD.cyprj|26aec10b-d88f-477b-9440-5b9c67ecd28c
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\CE228931_PSoC4_CapSense_CSX_Tuning_Example_@infineon.cydsn\CE228931_PSoC4_CapSense_CSX_Tuning_Example_@infineon.cyprj|6b677d20-f6c8-4a38-8c06-fa6224041282
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\FLASH TEST 3rd Aug 2023.cydsn\FLASH TEST 3rd Aug 2023.cyprj|d4626536-191c-406d-ad4a-a4dd9ab374e0
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Float() TEST.cydsn\Float() TEST.cyprj|0a60f999-69c2-4481-a94c-ee791e258462
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\IR_Camera1.cydsn\IR_Camera1.cyprj|009e0a37-a6a2-486b-a7e5-e65ff3de1ae0
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\PSoC Redesign Chinmay.cydsn\PSoC Redesign Chinmay.cyprj|e613ba24-9ebb-41dd-ab58-bc1215da565f
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Gamepad_CSXbuttonsAsCSDmatrix.cydsn\Gamepad_CSXbuttonsAsCSDmatrix.cyprj|5aa2e810-e479-496c-aec8-1df522e51726
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\HEX Touch Module.cydsn\HEX Touch Module.cyprj|75e290f1-3314-4963-a51d-8b72243e81fe
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\PSoC BLE+WiFi Testing.cydsn\PSoC BLE+WiFi Testing.cyprj|45be1c48-afbe-445f-8809-260f3d49c1cd
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\PSoC CapSense_THEJAS32.cydsn\PSoC CapSense_THEJAS32.cyprj|32e1b597-966d-4485-8423-c2909cf6a964
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Bootloader.cydsn\Bootloader.cyprj|f0eb49f1-5a1e-464a-a730-7a7eb95f80ae
+C:\Users\Prajwal Trachealth\Documents\PSoC Creator\E-Lagori PSoC 11th April 2023\Test_EFM.cydsn\Test_EFM.cyprj|807f668e-697a-45d5-8760-eed8575b9c68
